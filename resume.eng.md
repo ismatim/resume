@@ -28,7 +28,7 @@ Worked developing applications for these clients: Dataart, UTC, Doddle, Siemens,
 
 ### Micros-Fidelio - Senior Software Engineer - Sep 2005 to Dec 2008
 
-Develop applications for Micros products Point of Sales.
+Develop applications for Micros (Oracle) products.
 
 ### Infor (SunSystem) - Support - Sept 2002 to Sept 2003
 
