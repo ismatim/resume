@@ -39,7 +39,6 @@ Tier one support for SunSystem ERP for South America Clients.
 * English advanced.
 * Portuguese basic.
 
-## Personal Projects
+## Personal Project
 
 * [http://ismaeltisminetzky.now.sh/](http://ismaeltisminetzky.now.sh/)
-* [http://almastore.now.sh/](http://almastore.now.sh/)
